@@ -74,7 +74,7 @@
                         <feature>wrap</feature>
                     </bootFeatures>
                     <installedFeatures>
-                        <feature>spring</feature>
+                        <feature>spring/4.1.7.RELEASE_2</feature>
                     </installedFeatures>
                 </configuration>
             </plugin>
